@@ -217,6 +217,10 @@ vendor\.google_clockwork\.displayoffload3\..*
 bataviaos\.platform
 org\.bataviaos\.platform\.internal
 
+# NT adds
+com\.nothing
+com\.nothing\..*
+
 # OPLUS adds
 com\.oplus\..*
 
