@@ -217,6 +217,14 @@ vendor\.google_clockwork\.displayoffload3\..*
 bataviaos\.platform
 org\.bataviaos\.platform\.internal
 
+# MTK adds
+com\.mediatek
+com\.mediatek\..*
+mediatek
+mediatek\..*
+vendor\.mediatek
+vendor\.mediatek\..*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
